@@ -17,9 +17,9 @@ User experience theme :
  - Inspirasi Desain :
  - 
 # User Story
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Sebagai|Saya Ingin Bisa|Sehingga|Prioritas
+Pengguna|Membuat Jadwal|Mengatur jadwal saya|⭐⭐⭐⭐⭐
+Pengguna| bla | bla | ⭐⭐⭐⭐⭐
 # Struktur Data 
 
 # Arsitektur Sistem
