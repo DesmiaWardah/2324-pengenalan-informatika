@@ -1,7 +1,7 @@
 # Latar Belakang
-Aplikasi ini dibuat untuk memudahkan pelajar/mahasiswa dapat mengatur waktunya dengan baik. Sehingga tidak ada lagi tugas atau aktivitas penting yang terlewat, karena pada aplikasi ini pengguna bisa memasukkan jadwal dan to do list serta waktu kapan akan dikerjakannya. Dan setiap 5 menit sebelum waktu jadwal/to do list akan dikerjakan akan berrbunyi alarm sebagai pengingat.
+Aplikasi ini dibuat untuk memudahkan pelajar/mahasiswa dapat mengatur waktunya dengan baik. Sehingga dapat memanfaatkan waktu dengan sebaik-baiknya dan tidak ada lagi waktu yang terbuang sia-sia. Inspirasi saya membuat aplikasi ini adalah saya sendiri sebagai mahasiswa banyak tugas yang dikerjakan mepet deadline karena sering kali lupa, dengan adanya aplikasi bisa memudahkan dan membantu mengingatkannya.
 # Deskripsi
-bla blaa
+Pada aplikasi ini terdapat 2 menu utama yaitu menu Planner dan To do List. Pada menu Planner pengguna bisa memasukkan jadwal kesehariannya dan mengatur waktu kapan jadwal tersebut akan dilakukan. Pada menu To do List pengguna bisa memasukkan tugas dan deadlinenya. Setiap 5 menit sebelum jadwal akan dilakukan alarm akan berbunyi sebagai pengingat dan setiap 1 hari sebelum deadline to do list alarm akan berbunyi.
 # Branding
 Nama aplikasi : My Notes 
 Target user : 
@@ -13,7 +13,18 @@ User experience theme :
  - Mudah
  - Simple
  - Berguna 
- - Warna : suasana langit cerah Biru/Putih
+ - Warna : putih dan pink pastel
  - Inspirasi Desain :
-
+ - 
 # User Story
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
+# Struktur Data 
+
+# Arsitektur Sistem
+
+# Teknologi Library dan framwork 
+
+# Desain UX/UI
+
