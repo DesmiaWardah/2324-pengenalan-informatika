@@ -17,9 +17,14 @@ User experience theme :
  - Inspirasi Desain :
  - 
 # User Story
-Sebagai|Saya Ingin Bisa|Sehingga|Prioritas
-Pengguna|Membuat Jadwal|Mengatur jadwal saya|⭐⭐⭐⭐⭐
-Pengguna| bla | bla | ⭐⭐⭐⭐⭐
+Sebagai | Saya Ingin bisa | Sehingga | Prioritas
+---|---|---|---
+Pengguna | Mengisi Jadwal | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | Mengisi To do List | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | Menceklis To do List | Bisa Mengetahui Tugas mana saja yang sudah | ⭐⭐⭐
+---|---|---|---
 # Struktur Data 
 
 # Arsitektur Sistem
