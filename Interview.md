@@ -15,6 +15,7 @@ Nama aplikasi : My Notes
   - Membantu 
   - Warna : putih dan pink pastel
   - Inspirasi Desain :
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarisinyal.com%2Faplikasi-note-dan-memo%2F&psig=AOvVaw3C8ZVJkZF-jjkAzEpjc3bM&ust=1702812455262000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCLsu_sk4MDFQAAAAAdAAAAABAD
    
 # User Story
 Sebagai | Saya Ingin bisa | Sehingga | Prioritas
