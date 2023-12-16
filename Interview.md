@@ -6,7 +6,7 @@ Pada aplikasi ini terdapat 2 menu utama yaitu menu Planner dan To do List. Pada 
 Nama aplikasi : My Notes 
 - Target user : 
   - Usia 12+
-  - Pelajar/mahasiswa 
+  - Pelajar/mahasiswa/pekerja  
   - Seorang yang memiliki banyak deadline
   - Seorang yang sering lupa
 - User experience theme :
