@@ -24,8 +24,11 @@ Pengguna | Mengisi To do List | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
 Pengguna | Menceklis To do List | Bisa Mengetahui Tugas mana saja yang sudah | ⭐⭐⭐
 Pengguna | Set timer | Bisa mengetahui kapan waktu mengerjakan suatu tugas | ⭐⭐⭐
 Sistem | Membunyikan alarm | pengguna bisa mengetahui waktu kapan dikerjakannya tugas | ⭐⭐⭐ 
+Pengguna | Memiliki akun | Saya bisa masuk di device manapun | ⭐⭐
 Pengguna | Membuat tema warna | Bisa membuat tema warna sesuaikeinginan | ⭐⭐
 Sistem | Menyimpan tema pengguna | Pengguna tidak perlu membuat tema baru jika bosan dengan tema dan ingin kembali ke tema awal | ⭐⭐
+Pengguna | Membuat kumpulan dokumen tugas | Saya bisa mengarsipkan tugas-tugas dan membukanya kembali ketika saya membutuhkannya | ⭐
+Pengguna | Upload kumpulan tugas | Bisa bermanfaat untuk banyak orang | ⭐
 # Struktur Data 
 
 # Arsitektur Sistem
