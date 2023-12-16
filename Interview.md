@@ -4,18 +4,18 @@ Aplikasi ini dibuat untuk memudahkan pelajar/mahasiswa dapat mengatur waktunya d
 Pada aplikasi ini terdapat 2 menu utama yaitu menu Planner dan To do List. Pada menu Planner pengguna bisa memasukkan jadwal kesehariannya dan mengatur waktu kapan jadwal tersebut akan dilakukan. Pada menu To do List pengguna bisa memasukkan tugas dan deadlinenya. Setiap 5 menit sebelum jadwal akan dilakukan alarm akan berbunyi sebagai pengingat dan setiap 1 hari sebelum deadline to do list alarm akan berbunyi.
 # Branding
 Nama aplikasi : My Notes 
-Target user : 
- - Usia 12+
- - Pelajar/mahasiswa 
- - Seorang yang memiliki banyak deadline
- - Seorang yang sering lupa
-User experience theme :
- - Mudah
- - Simple
- - Berguna 
- - Warna : putih dan pink pastel
- - Inspirasi Desain :
- - 
+- Target user : 
+  - Usia 12+
+  - Pelajar/mahasiswa 
+  - Seorang yang memiliki banyak deadline
+  - Seorang yang sering lupa
+- User experience theme :
+  - Mudah
+  - Simple
+  - Membantu 
+  - Warna : putih dan pink pastel
+  - Inspirasi Desain :
+   
 # User Story
 Sebagai | Saya Ingin bisa | Sehingga | Prioritas
 ---|---|---|---
