@@ -20,11 +20,10 @@ User experience theme :
 Sebagai | Saya Ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Mengisi Jadwal | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
----|---|---|---
 Pengguna | Mengisi To do List | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
----|---|---|---
 Pengguna | Menceklis To do List | Bisa Mengetahui Tugas mana saja yang sudah | ⭐⭐⭐
----|---|---|---
+Pengguna | Set timer | Bisa mengetahui kapan waktu mengerjakan suatu tugas | ⭐⭐⭐
+Sistem | Membunyikan alarm | pengguna bisa mengetahui waktu kapan dikerjakannya tugas | ⭐⭐⭐ 
 # Struktur Data 
 
 # Arsitektur Sistem
