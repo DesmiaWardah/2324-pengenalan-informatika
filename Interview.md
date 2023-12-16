@@ -15,6 +15,7 @@ Nama aplikasi : My Notes
   - Membantu 
   - Warna : putih dan pink pastel
   - Inspirasi Desain :
+    
     ![WhatsApp Image 2023-12-16 at 18 32 58_4e14f617](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/d547c623-89b4-4190-a43d-989cefd7b148)
 
 # User Story
