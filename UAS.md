@@ -20,8 +20,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-Untuk membuat algoritma saya menggunakan mermaid, disini saya membuat algoritma menyiram bunga.
-![Uploading Screenshot 2023-12-17 211451.png…]()
+Untuk membuat algoritma saya menggunakan draw.io, disini saya membuat algoritma menyiram tanaman.
+<img width="160" alt="Screenshot 2023-12-18 154026" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c2af5bf5-00b8-4127-a7c6-5e6ca1831547">
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
