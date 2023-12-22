@@ -1,6 +1,12 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
+- Mobile computing
+Mobile computing atau komputasi bergerak memiliki beberapa penjelasan, salah satunya komputasi bergerak merupakan kemajuan teknologi komputer sehingga dapat berkomunikasi menggunakan jaringan tanpa menggunakan kabel dan mudah dibawa atau berpindah tempat, tetapi berbeda dengan komputasi nirkabel. Contoh dari perangkat komputasi bergerak seperti GPS, juga tipe dari komputasi bergerak seperti smart phone, dan lain sebagainya.
+- Grid computing
+  Komputasi grid menggunakan komputer yang terpisah oleh geografis, didistibusikan dan terhubung oleh jaringan untuk menyelasaikan masalah komputasi skala besar.
+- Cloud computing
+  Komputasi cloud merupakan gaya komputasi yang terukur dinamis dan sumber daya virtual yang sering menyediakan layanan melalui internet. Komputasi cloud menggambarkan pelengkap baru, konsumsi dan layanan IT berbasis model dalam internet, dan biasanya melibatkan ketentuan dari keterukuran dinamis dan sumber daya virtual yang sering menyediakan layanan melalui internet.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Untuk mengaktifkan Google Colab cukup mudah, caranya dengan buka gogle drivenya, di kiri pojok atas ada menu +baru klik lainnya, pilih Google Colaboratory
@@ -82,9 +88,11 @@ Referensi []
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+- Layanan cloud service yang saya minati adalah AWS, karena sudah terpercaya dan banyak dipakai oleh perusahaan-perusahan besar seperti Gojek, Traveloka, dan Tokopedia dan tingkat keamanan yang tinggi sehingga semua data bisa tersimpan dengan aman. Amazon Web Services terdiri dari banyak layanan alat organisasi seperti:
+- daya komputasi
+- penyimpanan database
+- content delivery
+Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, pengembangan seluler, sampai keamanan. Platform cloud AWS dikenal sebagai layanan yang menawarkan solusi komputasi awan yang fleksibel, skalabel, mudah digunakan, dan hemat biaya.
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
@@ -123,7 +131,35 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+- Software engineer
+- IT consultant
+- Web developer
+- Mobile application developer
+- Game developer
+- System analyst
+- Data scientist
+- Android developer
+- iOS developer
+- Cyber security analyst
+- SEO specialist
+- Database administrator
+- Cloud architect
+- Software tester
+- Network engineer
+- Full stack developer
+- Front end developer
+- Back end developer
+- Computer forensic investigator
+- Web administrator
+- UX researcher
+- Web designer
+- Applications engineer
+- Penetration tester
+- IT auditor
+- Data engineer
+- Quality assurance engineer
+- Machine learning engineer
+- DevOps engineer
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
