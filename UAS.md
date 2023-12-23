@@ -1,4 +1,4 @@
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 - Mobile computing
