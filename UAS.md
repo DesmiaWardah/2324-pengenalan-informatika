@@ -31,6 +31,8 @@ Untuk membuat algoritma saya menggunakan draw.io, disini saya membuat algoritma 
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-23 085728" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/4ea66413-577a-4ec1-8698-29b4b6b957f0">
+
 
 Referensi [1](https://scratch.mit.edu/)
 
