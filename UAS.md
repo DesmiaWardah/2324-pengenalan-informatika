@@ -173,7 +173,19 @@ Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, peng
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+Top Github project 2023:
+ HandBrake 
+ - IINA 
+- KeyCastr 
+- Microsoft PowerToys 
+- MonitorControl 
+- OBS Studio 
+- Optimus 
+- Pomotroid 
+- Quick Look Extensions 
+- ShareX 
+- VS Code 
+- YT-DLP 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
