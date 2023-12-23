@@ -1,5 +1,5 @@
 # Latar Belakang
-Platform baca online ini dibuat untuk memudahakan para pembaca untuk bisa membaca buku dengan praktis karena pembaca tidak harus repot pergi ke perpustakaan atau toko buku untuk bisa membacanya, dengan adanya teknologi digital kini membaca buku bisa dilakukan hanya dengan lewat perangkat seperti komputer, tablet, atau ponsel pintar. Selain itu banyak sekali keuntungan dengan adanya web baca online ini yaitu sebagai berikut: 
+Platform baca online ini dibuat untuk memudahakan para pembaca untuk bisa membaca buku dengan praktis karena pembaca tidak harus repot pergi ke perpustakaan atau toko buku untuk bisa membacanya, dengan adanya teknologi digital kini membaca buku bisa dilakukan hanya dengan lewat perangkat seperti komputer, tablet, atau ponsel pintar. Selain itu banyak sekali keuntungan dengan adanya platform baca online ini yaitu sebagai berikut: 
 -ramah linkungan karena tidak ada lagi pohon-pohon yang ditebang untuk mencetak sebuah buku 
 - penghematan biaya karena membantu mengurangi biaya cetak dan distribusi sehingga mengurangi biaya produksi ini dapat menciptakan solusi yang lebih ekonomis baik untuk pembaca maupun penerbit
 - ketersediaan konten lebih cepat seperti buku-buku baru atau materi bacaan dapat menjadi lebih cepat tersedia secara digital daripada dalam bentuk cetak sehingga pembaca dapat dengan segera mengakses materi baru tanpa menunggu proses produksi dan distribusi buku fisik
@@ -34,13 +34,30 @@ Maka dari itu dalam pengerjaan tugas ini saya tertarik untuk membuat platform ba
 # User Story
 Sebagai | Saya Ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | Mengisi Jadwal | Bisa Mengetahu Jadwal Saya | ⭐⭐⭐⭐⭐
+Pembaca | Membaca buku | Bisa membaca buku | ⭐⭐⭐⭐⭐
+Pembaca | Mencari buku | Bisa menemukan buku yang saya cari| ⭐⭐⭐⭐
+Pembaca | Berkomentar | Bisa memberikan saran kepada penulis atau informasi kepada pembaca | ⭐⭐⭐
+Pembaca | Memberi ulasan | Bisa memberitahukan bahwa buku itu bagus untuk dibaca |⭐⭐⭐
+Pembaca | Menandai halaman | Pada saat saya akan melanjutkan bacaan saya tidak perlu mencari halaman terakhir yang dibaca | ⭐⭐⭐
+Pembaca | Mengubah teks ke suara | Para penyandang disabilitas bisa ikut membaca juga | ⭐⭐
+Pembaca | Follow akun penulis | Bisa mengetahui update terbaru dari penulis  | ⭐⭐⭐
+Sistem | Mengetahui kategori buku yang sering dibaca user | Bisa merekomendasikan buku dengan kategori tersebut kepada user | ⭐⭐⭐⭐
+Sistem | Mengetahui penulis favorit user | Bisa merekomendasikan lebih banyak buku dari penulis tersebut | ⭐⭐⭐
+Penulis | Mengunggah sebuah buku | Bisa dibaca oleh pembaca | ⭐⭐⭐⭐
+Penulis | Mengedit buku yang telah saya unggah | Bisa memperbaiki kesalahan | ⭐⭐⭐
+Penulis | Membalas Komentar | Bisa membalas komentar dari pembaca | ⭐⭐⭐
+Penulis | Mengetahui rating dari buku yang diunggah | Bisa memperbaiki kesalahan-kesalahannya | ⭐⭐⭐
+
 
 # Struktur Data 
 
 # Arsitektur Sistem
 
 # Teknologi Library dan framwork 
+1.2.3 Figma
+Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ui/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
+1.2.4 Visual Studio Code
+Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebut dan bisa diinstal di berbagai desktop
 
 # Desain UX/UI
 
