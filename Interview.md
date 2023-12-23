@@ -27,6 +27,7 @@ Maka dari itu dalam pengerjaan tugas ini saya tertarik untuk membuat platform ba
   - Praktis
   - Sederhana
   - Menyenangkan
+  - Edukasi
   - Warna : Abu dan putih
   - Inspirasi desain :
     ![WhatsApp Image 2023-12-23 at 16 06 15_5db9e74c](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/a25bdf32-ff32-4f31-a84a-7503faf6cc74)
