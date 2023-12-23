@@ -42,12 +42,16 @@ Pembaca | Memberi ulasan | Bisa memberitahukan bahwa buku itu bagus untuk dibaca
 Pembaca | Menandai halaman | Pada saat saya akan melanjutkan bacaan saya tidak perlu mencari halaman terakhir yang dibaca | ⭐⭐⭐
 Pembaca | Mengubah teks ke suara | Para penyandang disabilitas bisa ikut membaca juga | ⭐⭐
 Pembaca | Follow akun penulis | Bisa mengetahui update terbaru dari penulis  | ⭐⭐⭐
+Pembaca | Melakukan pembayar buku | Bisa Membayar buku yang akan dibaca (jika buku yang dibeli berbayar) | ⭐
 Sistem | Mengetahui kategori buku yang sering dibaca user | Bisa merekomendasikan buku dengan kategori tersebut kepada user | ⭐⭐⭐⭐
 Sistem | Mengetahui penulis favorit user | Bisa merekomendasikan lebih banyak buku dari penulis tersebut | ⭐⭐⭐
+Sistem | Mengkategorikan penulis sesuai dengan kategori buku yang diunggahnya | Bisa merekomendasikan penulis dengan kategori tertentu kepada pembaca | ⭐⭐⭐
+Sistem | Merekomendasikan aplikasi transaksi | Pembaca bisa memilih ingin transaksi memakai apa | ⭐
 Penulis | Mengunggah sebuah buku | Bisa dibaca oleh pembaca | ⭐⭐⭐⭐
 Penulis | Mengedit buku yang telah saya unggah | Bisa memperbaiki kesalahan | ⭐⭐⭐
 Penulis | Membalas Komentar | Bisa membalas komentar dari pembaca | ⭐⭐⭐
 Penulis | Mengetahui rating dari buku yang diunggah | Bisa memperbaiki kesalahan-kesalahannya | ⭐⭐⭐
+Penulis | Menerima uang yang telah ditransfer oleh pembaca | Pembaca bisa membaca buku tersebut | ⭐
 
 
 # Struktur Data 
