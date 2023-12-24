@@ -12,6 +12,7 @@ Platform baca online ini dibuat untuk memudahakan para pembaca untuk bisa membac
 - Edukasi dan Pembelajaran Jarak Jauh, Platform baca online ini dapat digunakan sebagai sumber pembelajaran jarak jauh, baik untuk pendidikan formal maupun informal. Buku digital dapat diakses oleh siswa di berbagai lokasi, mendukung pendidikan inklusif.
 Maka dari itu dalam pengerjaan tugas ini saya tertarik untuk membuat platform baca online, saya harap platform ini bisa terus saya kembangkan dan bermanfaat untuk semua orang.
 # Deskripsi
+Pada platform baca online ini terdapat beberapa fitur seperti fitur utamanya yaitu membaca dan fitur-fitur lain seperti ketegori buku (pendidikan, novel, dan komik), selain itu terdapat fitur text to speach yang dimana fitur itu digunakan untuk penyandang disabilitas yang akan saya kembangkan kedepannya, pembaca bisa memberikan ulasan untuk buku yang dibacanya, pengguna bisa memberi dan saling membalas komentar,  
 
 # Branding
 - Merk : baca online
