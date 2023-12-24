@@ -68,8 +68,8 @@ Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yan
 
 - Browser : Chrome
 - Web server : Nginx
-- Library :
-- FrameWork :
+- Library : pdf.js
+- FrameWork : Express.js (Node.js):
 - Database : MySQL
   Menurut pemahaman saya mysql adalah database yang dimana untuk menyimpan sebuah data dari aplikasi, mau aplikasi android maupun web. myqsl ini gratis kalau yang umum download xampp di xampp itu udah include sama mysql nya jadi tinggal di run apache sama mysql, cuman kan saya waktu pakai xampp si apache nya eror terus dari smk sampai masuk kuliah eror terus udah instal ulang windows tetep eror diluar nalar itu, terus ada namanya laragon, kalau laragon hampir sama kaya xampp cuman database nya belum ada atau mysql nya belum ada sehingga harus download dulu si databse nya namanya phpmyadmin jadi pas sudah download phpmyadmin kita setting sedikit di file laragon nya, sebenarnya sama sama aja cuman saya cukup menyesal download xampp jadi di windows gak bisa dipake lagi buat bikin aplikasi karena port 80 nya eror terus da saya juga udah ngulik sampai nanya ke yang udah expert tetep gak bisa jadi laptop saya terpaksa pakai dual OS yaitu linux ubuntu
 # Desain UX/UI
