@@ -65,7 +65,7 @@ Penulis | Mengubah suara ke teks | Para penyandang disabilitas bisa ikut membaca
 Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebut dan bisa diinstal di berbagai desktop.
 - Desain UI/UX : Figma
 - Browser : Chrome
-- Web server :
+- Web server : Nginx
 - Library :
 - FrameWork :
 - Database : MySQL
