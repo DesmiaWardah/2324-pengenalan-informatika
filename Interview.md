@@ -12,7 +12,7 @@ Platform baca online ini dibuat untuk memudahakan para pembaca untuk bisa membac
 - Edukasi dan Pembelajaran Jarak Jauh, Platform baca online ini dapat digunakan sebagai sumber pembelajaran jarak jauh, baik untuk pendidikan formal maupun informal. Buku digital dapat diakses oleh siswa di berbagai lokasi, mendukung pendidikan inklusif.
 Maka dari itu dalam pengerjaan tugas ini saya tertarik untuk membuat platform baca online, saya harap platform ini bisa terus saya kembangkan dan bermanfaat untuk semua orang.
 # Deskripsi
-Platform baca online ini memiliki tampilan awal ketegori-kategori buku, desainnya bernuansa putih dan abu agar terlihat lebih simple. Pada platform baca online ini terdapat beberapa fitur seperti fitur utamanya yaitu membaca dan fitur-fitur lain seperti ketegori buku (pendidikan, novel, dan komik), selain itu terdapat fitur text to speach yang dimana fitur itu digunakan untuk penyandang disabilitas yang akan saya kembangkan kedepannya, pembaca bisa memberikan ulasan untuk buku yang dibacanya, pengguna bisa memberi dan saling membalas komentar, fitur pencarian untuk lebih memudahkan user mencari buku yang dimaksud, terdapat juga fitur penanda halaman agar lebih memudahkan pembaca jika ingin melanjutkan bacaannya, pembaca juga bisa mengikuti akun penulis yang disukainya agar dapat mengetahui update terbaru dari penulis, terdapat juga fitur pembayaran untuk beberapa buku berbayar agar lebih memudahkan pengguna dalam melakukan transaksi maka dari itu untuk pembayaran disini menggunakan m-bangking, terdapat juga fitur khusus untuk penulis yaitu fitur unggah untuk mengunggah buku yang akan diunggahnya.
+Baca online adalah platform membaca online yang sangat mudah dan praktis untuk semua kalangan mulai dari pelajar, mahasiswa, tenaga pengajar,orang yang gemar membaca, ataupun penulis bahkan pengguna disabilitas pun bisa untuk menggunakannya. Banyak sekali kategori buku mulai dari pendidikan, cerita fiksi, novel remaja, komik, novel horor, dan banyak lagi. Dengan adanya platform ini diharapkan bisa lebih mempermudah dan meningkatkan prsentasi literasi di indonesia.
 # Branding
 - Merk : baca online
 - Tagline : membaca lebih mmudah
@@ -51,6 +51,7 @@ Penulis | Mengedit buku yang telah saya unggah | Bisa memperbaiki kesalahan | �
 Penulis | Membalas Komentar | Bisa membalas komentar dari pembaca | ⭐⭐⭐
 Penulis | Mengetahui rating dari buku yang diunggah | Bisa memperbaiki kesalahan-kesalahannya | ⭐⭐⭐
 Penulis | Menerima uang yang telah ditransfer oleh pembaca | Pembaca bisa membaca buku tersebut | ⭐
+Penulis | Mengubah suara ke teks | Para penyandang disabilitas bisa ikut membaca juga | ⭐⭐
 # Struktur Data 
   `<img width="422" alt="Screenshot 2023-12-24 095719" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/7cf57df0-cf46-4d60-bc59-05031f897296">
 
