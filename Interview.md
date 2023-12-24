@@ -64,7 +64,11 @@ Penulis | Mengubah suara ke teks | Para penyandang disabilitas bisa ikut membaca
 - Text editor : Visual Studio Code
 Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebut dan bisa diinstal di berbagai desktop.
 - Desain UI/UX : Figma
-
+- Browser : Chrome
+- Web server :
+- Library :
+- FrameWork :
+- Database :
 # Desain UX/UI
 ![iPhone 14   15 Pro - 1](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/130f85da-2122-4d98-a122-9c3423283ed7)
 
