@@ -68,7 +68,7 @@ Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yan
 - Web server :
 - Library :
 - FrameWork :
-- Database :
+- Database : MySQL
 # Desain UX/UI
 ![iPhone 14   15 Pro - 1](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/130f85da-2122-4d98-a122-9c3423283ed7)
 
