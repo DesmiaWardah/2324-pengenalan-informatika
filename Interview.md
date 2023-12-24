@@ -12,13 +12,12 @@ Platform baca online ini dibuat untuk memudahakan para pembaca untuk bisa membac
 - Edukasi dan Pembelajaran Jarak Jauh, Platform baca online ini dapat digunakan sebagai sumber pembelajaran jarak jauh, baik untuk pendidikan formal maupun informal. Buku digital dapat diakses oleh siswa di berbagai lokasi, mendukung pendidikan inklusif.
 Maka dari itu dalam pengerjaan tugas ini saya tertarik untuk membuat platform baca online, saya harap platform ini bisa terus saya kembangkan dan bermanfaat untuk semua orang.
 # Deskripsi
-Pada platform baca online ini terdapat beberapa fitur seperti fitur utamanya yaitu membaca dan fitur-fitur lain seperti ketegori buku (pendidikan, novel, dan komik), selain itu terdapat fitur text to speach yang dimana fitur itu digunakan untuk penyandang disabilitas yang akan saya kembangkan kedepannya, pembaca bisa memberikan ulasan untuk buku yang dibacanya, pengguna bisa memberi dan saling membalas komentar,  
-
+Platform baca online ini memiliki tampilan awal ketegori-kategori buku, desainnya bernuansa putih dan abu agar terlihat lebih simple. Pada platform baca online ini terdapat beberapa fitur seperti fitur utamanya yaitu membaca dan fitur-fitur lain seperti ketegori buku (pendidikan, novel, dan komik), selain itu terdapat fitur text to speach yang dimana fitur itu digunakan untuk penyandang disabilitas yang akan saya kembangkan kedepannya, pembaca bisa memberikan ulasan untuk buku yang dibacanya, pengguna bisa memberi dan saling membalas komentar, fitur pencarian untuk lebih memudahkan user mencari buku yang dimaksud, terdapat juga fitur penanda halaman agar lebih memudahkan pembaca jika ingin melanjutkan bacaannya, pembaca juga bisa mengikuti akun penulis yang disukainya agar dapat mengetahui update terbaru dari penulis, terdapat juga fitur pembayaran untuk beberapa buku berbayar agar lebih memudahkan pengguna dalam melakukan transaksi maka dari itu untuk pembayaran disini menggunakan m-bangking, terdapat juga fitur khusus untuk penulis yaitu fitur unggah untuk mengunggah buku yang akan diunggahnya.
 # Branding
 - Merk : baca online
 - Tagline : membaca lebih mmudah
 - Campaign : Bagaimana membuat platform yang memudahkan penggunanya untuk bisa memudahakan dalam membaca.
-- Tareget user :
+- Tareget user :]
   - Usia 7+
   - Pelajar, mahasiswa, dan tenaga pengajar.
   - Seseorang yang gemar membaca.
@@ -32,7 +31,6 @@ Pada platform baca online ini terdapat beberapa fitur seperti fitur utamanya yai
   - Warna : Abu dan putih
   - Inspirasi desain :
     ![WhatsApp Image 2023-12-23 at 16 06 15_5db9e74c](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/a25bdf32-ff32-4f31-a84a-7503faf6cc74)
-
 # User Story
 Sebagai | Saya Ingin bisa | Sehingga | Prioritas
 ---|---|---|---
@@ -53,9 +51,9 @@ Penulis | Mengedit buku yang telah saya unggah | Bisa memperbaiki kesalahan | �
 Penulis | Membalas Komentar | Bisa membalas komentar dari pembaca | ⭐⭐⭐
 Penulis | Mengetahui rating dari buku yang diunggah | Bisa memperbaiki kesalahan-kesalahannya | ⭐⭐⭐
 Penulis | Menerima uang yang telah ditransfer oleh pembaca | Pembaca bisa membaca buku tersebut | ⭐
-
-
 # Struktur Data 
+  `<img width="422" alt="Screenshot 2023-12-24 095719" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/7cf57df0-cf46-4d60-bc59-05031f897296">
+
 
 # Arsitektur Sistem
 
