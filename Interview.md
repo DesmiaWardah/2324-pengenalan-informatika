@@ -60,9 +60,7 @@ Penulis | Menerima uang yang telah ditransfer oleh pembaca | Pembaca bisa membac
 
 
 # Teknologi Library dan framwork 
-- Figma
-Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ui/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
-- Visual Studio Code
+- Text editor : Visual Studio Code
 Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebut dan bisa diinstal di berbagai desktop
 
 # Desain UX/UI
