@@ -56,6 +56,8 @@ Penulis | Menerima uang yang telah ditransfer oleh pembaca | Pembaca bisa membac
 
 
 # Arsitektur Sistem
+<img width="195" alt="Screenshot 2023-12-24 130025" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c09681cc-8241-4d64-b5f8-00af167e12d6">
+
 
 # Teknologi Library dan framwork 
 - Figma
