@@ -17,122 +17,122 @@ Mobile computing atau komputasi bergerak memiliki beberapa penjelasan, salah sat
 <img width="960" alt="Screenshot 2023-12-17 210038" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/8428a2bb-e07d-4c5e-996c-65b1cad5575a">
 
   
-## 3. Mencoba Console Sistem Operasi
+## 4. Mencoba Console Sistem Operasi
 
-### 4. Windows CMD [v] ⭐⭐⭐⭐
+### 5. Windows CMD [v] ⭐⭐⭐⭐
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
-### 5. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 Untuk membuat algoritma saya menggunakan draw.io, disini saya membuat algoritma menyiram tanaman.
 <img width="160" alt="Screenshot 2023-12-18 154026" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c2af5bf5-00b8-4127-a7c6-5e6ca1831547">
 
 
-## 7. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-23 085728" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/4ea66413-577a-4ec1-8698-29b4b6b957f0">
 
 
 Referensi 
 
-## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
-## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-## 11. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-## 12. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-## 13. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
-## 14. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-## 15. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-## 16. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-## 17. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
-## 18. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
-## 19. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
-## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-## 22. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-## 23. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-## 24. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 - Layanan cloud service yang saya minati adalah AWS, karena sudah terpercaya dan banyak dipakai oleh perusahaan-perusahan besar seperti Gojek, Traveloka, dan Tokopedia dan tingkat keamanan yang tinggi sehingga semua data bisa tersimpan dengan aman. Amazon Web Services terdiri dari banyak layanan alat organisasi seperti:
 - daya komputasi
 - penyimpanan database
 - content delivery
 Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, pengembangan seluler, sampai keamanan. Platform cloud AWS dikenal sebagai layanan yang menawarkan solusi komputasi awan yang fleksibel, skalabel, mudah digunakan, dan hemat biaya.
 
-## 25. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-## 26. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-## 27. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-## 28. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-## 29. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-## 30. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-## 31. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-## 32. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-## 33. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-## 34. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-## 35. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-## 36. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-## 37. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-## 38. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
-## 39. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-## 40. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-## 41. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
-## 42. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-## 43. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - Software engineer
 - IT consultant
 - Web developer
@@ -162,17 +162,17 @@ Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, peng
 - Quality assurance engineer
 - Machine learning engineer
 - DevOps engineer
-## 35. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-## 36. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-## 37. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-## 38. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-## 39. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-## 40. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## 50. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 Top Github project 2023:
  HandBrake 
  - IINA 
@@ -186,13 +186,13 @@ Top Github project 2023:
 - ShareX 
 - VS Code 
 - YT-DLP 
-## 41. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-## 42. Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-## 43. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-## 44. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 - Judul buku : Hujan
 - Penulis : Tere Liye
 - Penerbit : Jakarta : Gramedia Pustaka Utama, 2019
