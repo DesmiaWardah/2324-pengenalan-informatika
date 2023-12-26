@@ -1,6 +1,6 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 - materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
-- penjelasan : 
+- penjelasan : https://youtu.be/Yx8meIWfDoU?si=e7-yypaNmXZgRiMS
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 - Mobile computing
@@ -30,7 +30,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 Untuk membuat algoritma saya menggunakan draw.io, disini saya membuat algoritma menyiram tanaman.
 <img width="160" alt="Screenshot 2023-12-18 154026" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c2af5bf5-00b8-4127-a7c6-5e6ca1831547">
-
+- https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
 
 ## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-23 085728" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/4ea66413-577a-4ec1-8698-29b4b6b957f0">
