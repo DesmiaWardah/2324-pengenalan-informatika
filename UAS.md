@@ -1,6 +1,6 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
-penjelasan : 
+- materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
+- penjelasan : 
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 - Mobile computing
