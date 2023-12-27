@@ -149,7 +149,7 @@ Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, peng
 - Machine learning engineer
 - DevOps engineer
 ## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+https://youtu.be/AzZvqPyBNOI?si=DjSsOzicmQOXocuD
 ## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
