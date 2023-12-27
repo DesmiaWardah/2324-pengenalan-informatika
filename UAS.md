@@ -1,12 +1,12 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
- materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
+https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
 
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 https://desmiawardah.wordpress.com/2023/12/23/apa-itu-mesin-komputasi-dan-jenis-jenisnya/
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-
+https://youtu.be/p7zHE1wKTjs?si=x2RwJ6ndzCTw5ebF
   
 ## 4. Mencoba Console Sistem Operasi
 
