@@ -152,8 +152,12 @@ https://youtu.be/AzZvqPyBNOI?si=DjSsOzicmQOXocuD
 ## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+- https://glints.com/id/opportunities/jobs/internship-web-developer/eb93860e-eb79-4557-84a5-dcae988d4462?utm_referrer=explore
+- https://glints.com/id/opportunities/jobs/ui-ux-designer/c19e35d2-a53c-4f32-9fe4-3f23588a8bcc?utm_referrer=explore
+- https://glints.com/id/opportunities/jobs/desain-grafis/976fa09d-fab1-4fa3-ab67-2a423aba5871?utm_referrer=explore
+- https://glints.com/id/opportunities/jobs/programming/14c33dd2-6879-46f9-b294-b3b2e9364200?utm_referrer=explore
 ## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+- https://glints.com/id/opportunities/jobs/freelancer-it/59841d26-8664-4ddf-80c0-f0aaf0cd3b79?utm_referrer=explore
 
 ## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
