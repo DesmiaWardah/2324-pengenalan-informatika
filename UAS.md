@@ -3,13 +3,7 @@
 - penjelasan : https://youtu.be/Yx8meIWfDoU?si=e7-yypaNmXZgRiMS
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
-- Mobile computing
-Mobile computing atau komputasi bergerak memiliki beberapa penjelasan, salah satunya komputasi bergerak merupakan kemajuan teknologi komputer sehingga dapat berkomunikasi menggunakan jaringan tanpa menggunakan kabel dan mudah dibawa atau berpindah tempat, tetapi berbeda dengan komputasi nirkabel. Contoh dari perangkat komputasi bergerak seperti GPS, juga tipe dari komputasi bergerak seperti smart phone, dan lain sebagainya.
-- Grid computing
-  Komputasi grid menggunakan komputer yang terpisah oleh geografis, didistibusikan dan terhubung oleh jaringan untuk menyelasaikan masalah komputasi skala besar.
-- Cloud computing
-  Komputasi cloud merupakan gaya komputasi yang terukur dinamis dan sumber daya virtual yang sering menyediakan layanan melalui internet. Komputasi cloud menggambarkan pelengkap baru, konsumsi dan layanan IT berbasis model dalam internet, dan biasanya melibatkan ketentuan dari keterukuran dinamis dan sumber daya virtual yang sering menyediakan layanan melalui internet.
-
+https://desmiawardah.wordpress.com/2023/12/23/apa-itu-mesin-komputasi-dan-jenis-jenisnya/
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Untuk mengaktifkan Google Colab cukup mudah, caranya dengan buka gogle drivenya, di kiri pojok atas ada menu +baru klik lainnya, pilih Google Colaboratory
 <img width="960" alt="Screenshot 2023-12-17 210027" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/71283f8c-08a1-4b15-baf7-44316351d92e">
@@ -28,8 +22,6 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-Untuk membuat algoritma saya menggunakan draw.io, disini saya membuat algoritma menyiram tanaman.
-<img width="160" alt="Screenshot 2023-12-18 154026" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c2af5bf5-00b8-4127-a7c6-5e6ca1831547">
 - https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
 
 ## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
