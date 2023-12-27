@@ -1,4 +1,4 @@
-## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+<img width="960" alt="image" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/32a4379d-c4d2-4d1f-b35e-f8bbfc3ae60e">## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
 
 
@@ -117,6 +117,7 @@ Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, peng
 ## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+![Uploading Screenshot 2023-12-27 190845.png…]()
 
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - Software engineer
