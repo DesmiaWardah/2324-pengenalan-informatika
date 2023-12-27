@@ -118,35 +118,8 @@ https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 
 
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-- Software engineer
-- IT consultant
-- Web developer
-- Mobile application developer
-- Game developer
-- System analyst
-- Data scientist
-- Android developer
-- iOS developer
-- Cyber security analyst
-- SEO specialist
-- Database administrator
-- Cloud architect
-- Software tester
-- Network engineer
-- Full stack developer
-- Front end developer
-- Back end developer
-- Computer forensic investigator
-- Web administrator
-- UX researcher
-- Web designer
-- Applications engineer
-- Penetration tester
-- IT auditor
-- Data engineer
-- Quality assurance engineer
-- Machine learning engineer
-- DevOps engineer
+https://glints.com/id/lowongan/peluang-kerja-lulusan-teknik-informatika/
+melansir dari web tersebut profesi yang saya minati adalah Web  designer karena saya berminat di bidang design. 
 ## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://youtu.be/AzZvqPyBNOI?si=DjSsOzicmQOXocuD
 ## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
