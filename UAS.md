@@ -1,16 +1,11 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
-- penjelasan : https://youtu.be/Yx8meIWfDoU?si=e7-yypaNmXZgRiMS
+ materi : https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
+
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ 
 https://desmiawardah.wordpress.com/2023/12/23/apa-itu-mesin-komputasi-dan-jenis-jenisnya/
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Untuk mengaktifkan Google Colab cukup mudah, caranya dengan buka gogle drivenya, di kiri pojok atas ada menu +baru klik lainnya, pilih Google Colaboratory
-<img width="960" alt="Screenshot 2023-12-17 210027" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/71283f8c-08a1-4b15-baf7-44316351d92e">
 
-
-- Setelah mengaktifkannya lalu saya mencobanya dengan perintah print (12)
-<img width="960" alt="Screenshot 2023-12-17 210038" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/8428a2bb-e07d-4c5e-996c-65b1cad5575a">
 
   
 ## 4. Mencoba Console Sistem Operasi
@@ -22,13 +17,10 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
+https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
 
 ## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-<img width="960" alt="Screenshot 2023-12-23 085728" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/4ea66413-577a-4ec1-8698-29b4b6b957f0">
 
-
-Referensi 
 
 ## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
