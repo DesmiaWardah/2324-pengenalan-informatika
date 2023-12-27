@@ -1,4 +1,4 @@
-<img width="960" alt="Screenshot 2023-12-27 190845" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/11f08018-d690-4a0c-b25d-f6a82c8a335a">## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://desmiawardah.wordpress.com/2023/12/26/computational-thinking/
 
 
