@@ -76,11 +76,7 @@ Referensi []
 ## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-- Layanan cloud service yang saya minati adalah AWS, karena sudah terpercaya dan banyak dipakai oleh perusahaan-perusahan besar seperti Gojek, Traveloka, dan Tokopedia dan tingkat keamanan yang tinggi sehingga semua data bisa tersimpan dengan aman. Amazon Web Services terdiri dari banyak layanan alat organisasi seperti:
-- daya komputasi
-- penyimpanan database
-- content delivery
-Layanan AWS lainnya termasuk server, jaringan, komputasi jarak jauh, email, pengembangan seluler, sampai keamanan. Platform cloud AWS dikenal sebagai layanan yang menawarkan solusi komputasi awan yang fleksibel, skalabel, mudah digunakan, dan hemat biaya.
+https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
