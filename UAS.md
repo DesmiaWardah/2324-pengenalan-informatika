@@ -14,7 +14,7 @@ https://youtu.be/p7zHE1wKTjs?si=x2RwJ6ndzCTw5ebF
 https://youtu.be/HVh6DwTU_rM?si=4cVWtyOReozQv_qo
 
 ### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
+https://youtu.be/LHpWv-hwMPA?si=CXybP8H8IsH5b097
 ## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
 
