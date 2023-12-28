@@ -20,7 +20,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
 
 ## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
+https://youtu.be/RaJlJduipeU?si=H--5Fo8mLjyU4T3c
 
 ## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
