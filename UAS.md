@@ -11,8 +11,7 @@ https://youtu.be/p7zHE1wKTjs?si=x2RwJ6ndzCTw5ebF
 ## 4. Mencoba Console Sistem Operasi
 
 ### 5. Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+https://youtu.be/HVh6DwTU_rM?si=4cVWtyOReozQv_qo
 
 ### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
