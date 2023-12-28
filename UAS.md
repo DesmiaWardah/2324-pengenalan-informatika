@@ -31,9 +31,13 @@ https://youtu.be/RaJlJduipeU?si=H--5Fo8mLjyU4T3c
 ## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+Disini saya mecoba untuk install MySql
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+<img width="960" alt="Screenshot 2023-12-28 101651" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/3d91fd62-82ec-430a-b72f-5eb3716747bc">
+
+
+
+
 
 ## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
