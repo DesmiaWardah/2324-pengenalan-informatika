@@ -144,7 +144,7 @@ https://www.linkedin.com/in/desmia-wardah-99a5062a2?utm_source=share&utm_campaig
 https://github.com/DesmiaWardah/DesmiaWardah
 
 ## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
+- Generative AI in Natural Language Processing, Speaker : M. Nizam, S.T, M.T.
 ## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 - Judul buku : Hujan
 - Penulis : Tere Liye
