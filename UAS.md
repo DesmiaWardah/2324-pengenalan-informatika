@@ -26,7 +26,7 @@ https://youtu.be/RaJlJduipeU?si=H--5Fo8mLjyU4T3c
 ## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/kaTzBkoO5lg?si=Doidj5xG3zQHuzq_
 ## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/Ko5uRisuAfg?si=f2hKcmhEc2ZZysGP
 ## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -50,12 +50,11 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://youtu.be/A-ccJzIbaYk?si=b1lzx6Cksy6OfC06
 
 ## 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
-
+https://youtu.be/ZUk44lNitRQ?si=Lnnc4PlD7I-qgrB-
 ## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial 
@@ -65,7 +64,7 @@ Referensi tutorial
 
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+
 
 ## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
