@@ -24,7 +24,7 @@ https://youtu.be/RaJlJduipeU?si=H--5Fo8mLjyU4T3c
 ## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 ## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-
+https://youtu.be/kaTzBkoO5lg?si=Doidj5xG3zQHuzq_
 ## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 ## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
