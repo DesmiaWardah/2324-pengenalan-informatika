@@ -28,7 +28,7 @@ https://youtu.be/kaTzBkoO5lg?si=Doidj5xG3zQHuzq_
 ## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 https://youtu.be/Ko5uRisuAfg?si=f2hKcmhEc2ZZysGP
 ## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+https://youtu.be/MqcoiF-ZPio?si=4L42p_0qtA8LC944
 ## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 Disini saya mecoba untuk install MySql
 
@@ -125,7 +125,7 @@ melansir dari web tersebut profesi yang saya minati adalah Web  designer karena 
 ## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://youtu.be/AzZvqPyBNOI?si=DjSsOzicmQOXocuD
 ## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+https://youtu.be/FfVfjd2gkes?si=HZTTwyjVGzObl2nU
 ## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 - https://glints.com/id/opportunities/jobs/internship-web-developer/eb93860e-eb79-4557-84a5-dcae988d4462?utm_referrer=explore
 - https://glints.com/id/opportunities/jobs/ui-ux-designer/c19e35d2-a53c-4f32-9fe4-3f23588a8bcc?utm_referrer=explore
