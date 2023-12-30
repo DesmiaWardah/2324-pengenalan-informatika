@@ -91,6 +91,7 @@ https://drive.google.com/file/d/1ei40nW4G9BQhF3OvxdfCajVsYQLVMiai/view?usp=drive
 ## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://youtu.be/iwjhTi39GLs?si=1OEAzrJEM_9BeFYN
 ## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+![_8b2a1765-8f06-4c21-891f-02f8cfebe036](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/994f7750-481f-4b49-adbf-edf6ee41c0c7)
 
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
