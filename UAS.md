@@ -67,7 +67,7 @@ Referensi tutorial
 ## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/30/penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 ## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
