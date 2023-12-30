@@ -85,7 +85,7 @@ https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 ## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+https://drive.google.com/file/d/1ei40nW4G9BQhF3OvxdfCajVsYQLVMiai/view?usp=drivesdk
 ## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
