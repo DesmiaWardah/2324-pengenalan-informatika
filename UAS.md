@@ -101,7 +101,7 @@ https://drive.google.com/file/d/1ei40nW4G9BQhF3OvxdfCajVsYQLVMiai/view?usp=drive
 ## 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://youtu.be/JHXyIY7em90?si=7kXbV8V0TsaPzB4X
 ## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
+https://youtu.be/gGiAS1ZH1e8?si=3L6Q3gph6NaA5os8
 ## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
