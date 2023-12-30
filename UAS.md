@@ -101,7 +101,7 @@ https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 ## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
+https://youtu.be/JHXyIY7em90?si=7kXbV8V0TsaPzB4X
 ## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
@@ -113,7 +113,7 @@ https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 ## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://youtu.be/KLQMQesaJZ0?si=UPKQaq2hbpZE1yy5
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-27 190845" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c56cc981-b9c0-45c2-ab60-e15723b95fd4">
 
@@ -135,7 +135,7 @@ https://youtu.be/FfVfjd2gkes?si=HZTTwyjVGzObl2nU
 - https://glints.com/id/opportunities/jobs/freelancer-it/59841d26-8664-4ddf-80c0-f0aaf0cd3b79?utm_referrer=explore
 
 ## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
+https://youtu.be/EgHguiEODFk?si=8Da4wvjA5YrTSdBQ
 ## 50. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 https://youtu.be/L0V6F6V7nu0?si=dxfg72HYLh_gHpD1
 ## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
