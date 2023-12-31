@@ -55,10 +55,7 @@ https://youtu.be/A-ccJzIbaYk?si=b1lzx6Cksy6OfC06
 https://youtu.be/ZUk44lNitRQ?si=Lnnc4PlD7I-qgrB-
 ## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://github.com/DesmiaWardah/Web-baca-online.md
 
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
