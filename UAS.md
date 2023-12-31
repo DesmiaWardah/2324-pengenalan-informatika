@@ -86,6 +86,7 @@ https://desmiawardah.wordpress.com/2023/12/31/menjelaskan-jurnal-conference-arti
 https://youtu.be/KLQMQesaJZ0?si=UPKQaq2hbpZE1yy5
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-27 190845" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/c56cc981-b9c0-45c2-ab60-e15723b95fd4">
+
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 https://glints.com/id/lowongan/peluang-kerja-lulusan-teknik-informatika/
 melansir dari web tersebut profesi yang saya minati adalah Web  designer karena saya berminat di bidang design. 
