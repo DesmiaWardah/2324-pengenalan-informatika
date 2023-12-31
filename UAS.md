@@ -6,8 +6,11 @@ https://desmiawardah.wordpress.com/2023/12/23/apa-itu-mesin-komputasi-dan-jenis-
 https://youtu.be/p7zHE1wKTjs?si=x2RwJ6ndzCTw5ebF
 ## 4. Mencoba Console Sistem Operasi
 - Windows CMD [v] ⭐⭐⭐⭐
+- 
 https://youtu.be/HVh6DwTU_rM?si=4cVWtyOReozQv_qo
+
 -Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
 https://youtu.be/LHpWv-hwMPA?si=CXybP8H8IsH5b097
 ## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://youtu.be/vk4thtueDIc?si=6c0D1ZaNBfTZscFY
