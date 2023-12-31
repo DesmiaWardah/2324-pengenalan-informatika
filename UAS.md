@@ -70,7 +70,7 @@ Referensi tutorial
 https://desmiawardah.wordpress.com/2023/12/30/penggunaan-web-hosting-dengan-untuk-halaman-html/
 
 ## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/mencoba-penggunaan-web-hosting-dengan-untuk-web-service/
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://youtu.be/LQaVrBOlY74
 ## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
@@ -110,7 +110,7 @@ https://desmiawardah.wordpress.com/2023/12/31/mencoba-memproses-file-csv-menggun
 ## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 https://youtu.be/KLQMQesaJZ0?si=UPKQaq2hbpZE1yy5
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
