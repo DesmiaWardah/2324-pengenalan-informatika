@@ -37,7 +37,7 @@ https://youtu.be/ZUk44lNitRQ?si=Lnnc4PlD7I-qgrB-
 ## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 https://github.com/DesmiaWardah/Web-baca-online.md
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/penerapan-teknik-search-engine-optimization-seo-pada-html/
 ## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 ![Uploading Screenshot 2023-12-31 130258.png…]()
 
@@ -48,7 +48,7 @@ https://desmiawardah.wordpress.com/2023/12/31/mencoba-penggunaan-web-hosting-den
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://youtu.be/LQaVrBOlY74
 ## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/penggunaan-developer-tools-pada-web-browser-firefox-chrome/
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
@@ -60,13 +60,13 @@ https://drive.google.com/file/d/1ei40nW4G9BQhF3OvxdfCajVsYQLVMiai/view?usp=drive
 ## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 https://youtu.be/JKYwMcFkTQI?si=g2aZKDzlJyu8eD1K
 ## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/pemrosesan-konten-multimedia-image-audio-menggunakan-google-colab/
 ## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://youtu.be/iwjhTi39GLs?si=1OEAzrJEM_9BeFYN
 ## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 ![_8b2a1765-8f06-4c21-891f-02f8cfebe036](https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/994f7750-481f-4b49-adbf-edf6ee41c0c7)
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-huggingface/
 ## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 https://youtu.be/Ro4_bJwcUV8?si=gRwyQotfOiKSKIXF
 ## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
@@ -80,7 +80,7 @@ https://desmiawardah.wordpress.com/2023/12/31/mencoba-protokol-komunikasi-iot-mq
 ## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 https://desmiawardah.wordpress.com/2023/12/31/mencoba-memproses-file-csv-menggunakan-google-colab/
 ## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/memproses-file-big-data-orc-menggunakan-google-colab/
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 https://desmiawardah.wordpress.com/2023/12/31/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
