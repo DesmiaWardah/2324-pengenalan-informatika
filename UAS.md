@@ -39,6 +39,7 @@ https://github.com/DesmiaWardah/Web-baca-online.md
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 ## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+![Uploading Screenshot 2023-12-31 130258.png…]()
 
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 https://desmiawardah.wordpress.com/2023/12/30/penggunaan-web-hosting-dengan-untuk-halaman-html/
