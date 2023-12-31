@@ -104,9 +104,9 @@ https://youtu.be/JHXyIY7em90?si=7kXbV8V0TsaPzB4X
 ## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 https://youtu.be/gGiAS1ZH1e8?si=3L6Q3gph6NaA5os8
 ## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/mencoba-protokol-komunikasi-iot-mqtt/
 ## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/mencoba-memproses-file-csv-menggunakan-google-colab/
 ## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
