@@ -79,7 +79,7 @@ https://desmiawardah.wordpress.com/2023/12/30/penggunaan-web-hosting-dengan-untu
 https://desmiawardah.wordpress.com/2023/12/27/layanan-cloud-service-aws/
 
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
-
+https://desmiawardah.wordpress.com/2023/12/31/mencoba-penggunaan-content-management-system-wordpress/
 ## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
