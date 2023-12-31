@@ -25,8 +25,8 @@ https://youtu.be/MqcoiF-ZPio?si=4L42p_0qtA8LC944
 Disini saya mecoba untuk install MySql
 <img width="960" alt="Screenshot 2023-12-28 101651" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/3d91fd62-82ec-430a-b72f-5eb3716747bc">
 ## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+<img width="960" alt="image" src="https://github.com/DesmiaWardah/2324-pengenalan-informatika/assets/144568328/5d0fc186-ca38-441c-95f8-af1978a60237">
+
 
 ## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://desmiawardah.wordpress.com/2023/12/30/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
