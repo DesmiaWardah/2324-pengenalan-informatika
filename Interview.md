@@ -183,3 +183,6 @@ Database atau sistem basis data adalah komponen kunci dalam produk teknologi inf
    - Database menyediakan mekanisme pemulihan dan cadangan untuk melindungi data dari kehilangan atau kerusakan. Cadangan rutin dan prosedur pemulihan dapat membantu mengamankan data dalam situasi darurat.
 
 Dengan demikian, database atau sistem basis data berperan sebagai fondasi untuk penyimpanan dan manajemen data dalam produk teknologi informasi. Desain dan implementasi yang baik dari sistem basis data dapat meningkatkan kinerja, keamanan, dan integritas data, yang merupakan aspek penting dalam pengembangan dan operasi produk tersebut.
+
+# Link Youtube
+https://youtu.be/NGChn_MeDM4?si=JXwlshZpqv8c_5Fl
